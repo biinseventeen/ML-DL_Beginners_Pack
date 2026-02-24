@@ -14,7 +14,7 @@ This is my attempts on 3 well-known datasets: the IMDB movie dataset, the Reuter
 
 Some parts of the code in the 3 notebooks are taken from book **Deep Learning with Python** by *Francios Chollet* and *Matthew Watson*. However, I did make many changes in the codes by adding new models, taking different approaches as well as creating additional visualizations (graphs, charts, etc).
 
-These notebooks are not created to be judged by their scores/ efficiencies. They are intend to provide a beginner approach to AI coding (not vibe coding) - how to actually write those Python syntax after learning about Linear Algebra, Matrix Multiplication, Probabilities and stuff like that. I struggle a lot with the Math I learn and how to actually code for a long time, and this is how I started.
+These notebooks are not created to be judged by their scores/ efficiencies. They are intended to provide a beginner approach to AI coding (not vibe coding) - how to actually write those Python syntax after learning about Linear Algebra, Matrix Multiplication, Probabilities and stuff like that. I struggle a lot with the Math I learn and how to actually code for a long time, and this is how I started.
 
 ---
 ## Run ##
